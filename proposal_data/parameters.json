@@ -1,0 +1,32 @@
+{
+    "amount": 10.0,
+    "currency": "USD",
+    "duration": 3,
+    "duration_uint": 2,
+    "symbols": [
+        "WLDAUD",
+        "WLDEUR",
+        "WLDGBP",
+        "WLDUSD",
+        "frxAUDCAD",
+        "frxAUDCHF",
+        "frxAUDJPY",
+        "frxAUDNZD",
+        "frxAUDUSD",
+        "frxEURAUD",
+        "frxEURCAD",
+        "frxEURCHF",
+        "frxEURGBP",
+        "frxEURJPY",
+        "frxEURNZD",
+        "frxEURUSD",
+        "frxGBPAUD",
+        "frxGBPCAD",
+        "frxGBPCHF",
+        "frxGBPJPY",
+        "frxGBPNZD",
+        "frxNZDUSD",
+        "frxUSDCAD",
+        "frxUSDJPY"
+    ]
+}
