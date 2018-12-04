@@ -1,3 +1,9 @@
 [submodule "bin/lib/json"]
 	path = bin/lib/json
 	url = https://github.com/nlohmann/json
+[submodule "lib/json"]
+	path = lib/json
+	url = https://github.com/nlohmann/json.git
+[submodule "lib/xtime_cpp"]
+	path = lib/xtime_cpp
+	url = https://github.com/NewYaroslav/xtime_cpp.git
