@@ -1,0 +1,4 @@
+quotes_ticks_data/** filter=lfs diff=lfs merge=lfs -text
+quotes_bars_data/** filter=lfs diff=lfs merge=lfs -text
+proposal_data/** filter=lfs diff=lfs merge=lfs -text
+'*.bin' filter=lfs diff=lfs merge=lfs -text

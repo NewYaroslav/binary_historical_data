@@ -1,36 +1,3 @@
-{
-    "symbols": [
-        "WLDAUD",
-        "WLDEUR",
-        "WLDGBP",
-        "WLDUSD",
-        "frxAUDCAD",
-        "frxAUDCHF",
-        "frxAUDJPY",
-        "frxAUDNZD",
-        "frxAUDUSD",
-        "frxEURAUD",
-        "frxEURCAD",
-        "frxEURCHF",
-        "frxEURGBP",
-        "frxEURJPY",
-        "frxEURNZD",
-        "frxEURUSD",
-        "frxGBPAUD",
-        "frxGBPCAD",
-        "frxGBPCHF",
-        "frxGBPJPY",
-        "frxGBPNOK",
-        "frxGBPNZD",
-        "frxGBPPLN",
-        "frxGBPUSD",
-        "frxNZDJPY",
-        "frxNZDUSD",
-        "frxUSDCAD",
-        "frxUSDCHF",
-        "frxUSDJPY",
-        "frxUSDNOK",
-        "frxUSDPLN",
-        "frxUSDSEK"
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:54e997a0e0e18e28fedfdd46d2e9348dbdfd4813bf8a0b4eb3b5385e5bb08153
+size 722
